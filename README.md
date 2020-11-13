@@ -1,16 +1,19 @@
-### Hi there 👋
+## G30RG3 👾
 
-<!--
-**tehG30RG3/tehG30RG3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### __init__
 
-Here are some ideas to get you started:
+- 🌱 me: i´m currently learning blockchain for a university project.
+- ⚡ fun fact: 🍣 is my favourite delecious food!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### donations:
+#### Bitcoin
+<img src="btc.png" alt="12XhU6CKh2EHSkK2a6KcVWxYDcesrNkUMQ" width="200"/>
+  
+```12XhU6CKh2EHSkK2a6KcVWxYDcesrNkUMQ```
+
+#### DigiByte
+<img src="dgb.jpg" alt="DQjDJXDenw2Gjx74zDXFBzxf9vA46BC4FG" width="200"/>
+  
+```DQjDJXDenw2Gjx74zDXFBzxf9vA46BC4FG```
